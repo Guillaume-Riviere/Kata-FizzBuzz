@@ -26,7 +26,7 @@ namespace FizzBuzzKataTest
             Assert.AreEqual(_expected, output);
         }
 
-        [TestCase(3, "Fizz")]
+        [TestCase(3, FizzBuzz.Fizz)]
         public void Should_Return_Fizz_Having_Integer3(int _input, string _expected)
         {
             FizzBuzz fizzBuzz = new FizzBuzz();
@@ -34,8 +34,8 @@ namespace FizzBuzzKataTest
             Assert.AreEqual(_expected, output);
         }
 
-        [TestCase(6, "Fizz")]
-        [TestCase(9, "Fizz")]
+        [TestCase(6, FizzBuzz.Fizz)]
+        [TestCase(9, FizzBuzz.Fizz)]
         public void Should_Return_Fizz_Having_Integer_divisible_by_three(int _input, string _expected)
         {
             FizzBuzz fizzBuzz = new FizzBuzz();
@@ -43,7 +43,7 @@ namespace FizzBuzzKataTest
             Assert.AreEqual(_expected, output);
         }
 
-        [TestCase(5, "Buzz")]
+        [TestCase(5, FizzBuzz.Buzz)]
         public void Should_Return_Buzz_Having_Integer5(int _input, string _expected)
         {
             FizzBuzz fizzBuzz = new FizzBuzz();
@@ -51,8 +51,8 @@ namespace FizzBuzzKataTest
             Assert.AreEqual(_expected, output);
         }
 
-        [TestCase(10, "Buzz")]
-        [TestCase(20, "Buzz")]
+        [TestCase(10, FizzBuzz.Buzz)]
+        [TestCase(20, FizzBuzz.Buzz)]
         public void Should_Return_Buzz_Having_Integer_divisible_by_five(int _input, string _expected)
         {
             FizzBuzz fizzBuzz = new FizzBuzz();
@@ -60,7 +60,7 @@ namespace FizzBuzzKataTest
             Assert.AreEqual(_expected, output);
         }
 
-        [TestCase(15, "FizzBuzz")]
+        [TestCase(15, FizzBuzz.Fizz+ FizzBuzz.Buzz)]
         public void Should_Return_FizzBuzz_Having_Integer_divisible_by_three_and_five(int _input, string _expected)
         {
             FizzBuzz fizzBuzz = new FizzBuzz();

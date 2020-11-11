@@ -1,18 +1,21 @@
 ﻿
 namespace FizzBuzzKata
 {
+
     public class FizzBuzz
     {
+        public const string Fizz = "Fizz";
+        public const string Buzz = "Buzz";
         public string FizzBuzzShow(int input)
         {
             if (Is_Divisible_By(input, 15))
-                return "FizzBuzz";
+                return Fizz+Buzz;
 
             if (Is_Divisible_By(input, 3))
-                return "Fizz";
+                return Fizz;
 
             if (Is_Divisible_By(input, 5))
-                return "Buzz";
+                return Buzz;
 
             return input.ToString();
         }
