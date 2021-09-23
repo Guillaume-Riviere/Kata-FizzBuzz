@@ -1,0 +1,14 @@
+C:\algosup\Kata-FizzBuzz\src\FizzBuzzKata\bin\Debug\netcoreapp3.1\FizzBuzzKata.exe
+C:\algosup\Kata-FizzBuzz\src\FizzBuzzKata\bin\Debug\netcoreapp3.1\FizzBuzzKata.deps.json
+C:\algosup\Kata-FizzBuzz\src\FizzBuzzKata\bin\Debug\netcoreapp3.1\FizzBuzzKata.runtimeconfig.json
+C:\algosup\Kata-FizzBuzz\src\FizzBuzzKata\bin\Debug\netcoreapp3.1\FizzBuzzKata.runtimeconfig.dev.json
+C:\algosup\Kata-FizzBuzz\src\FizzBuzzKata\bin\Debug\netcoreapp3.1\FizzBuzzKata.dll
+C:\algosup\Kata-FizzBuzz\src\FizzBuzzKata\bin\Debug\netcoreapp3.1\FizzBuzzKata.pdb
+C:\algosup\Kata-FizzBuzz\src\FizzBuzzKata\obj\Debug\netcoreapp3.1\FizzBuzzKata.csproj.AssemblyReference.cache
+C:\algosup\Kata-FizzBuzz\src\FizzBuzzKata\obj\Debug\netcoreapp3.1\FizzBuzzKata.GeneratedMSBuildEditorConfig.editorconfig
+C:\algosup\Kata-FizzBuzz\src\FizzBuzzKata\obj\Debug\netcoreapp3.1\FizzBuzzKata.AssemblyInfoInputs.cache
+C:\algosup\Kata-FizzBuzz\src\FizzBuzzKata\obj\Debug\netcoreapp3.1\FizzBuzzKata.AssemblyInfo.cs
+C:\algosup\Kata-FizzBuzz\src\FizzBuzzKata\obj\Debug\netcoreapp3.1\FizzBuzzKata.csproj.CoreCompileInputs.cache
+C:\algosup\Kata-FizzBuzz\src\FizzBuzzKata\obj\Debug\netcoreapp3.1\FizzBuzzKata.dll
+C:\algosup\Kata-FizzBuzz\src\FizzBuzzKata\obj\Debug\netcoreapp3.1\FizzBuzzKata.pdb
+C:\algosup\Kata-FizzBuzz\src\FizzBuzzKata\obj\Debug\netcoreapp3.1\FizzBuzzKata.genruntimeconfig.cache

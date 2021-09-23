@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = FizzBuzzKataTest
+build_property.ProjectDir = C:\algosup\Kata-FizzBuzz\src\FizzBuzzKataTest\
